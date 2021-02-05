@@ -1,0 +1,1 @@
+https://cs.stackexchange.com/questions/83409/finding-the-number-of-intersections-of-n-line-segments-with-endpoints-on-two-p
