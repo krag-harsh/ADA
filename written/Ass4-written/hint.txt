@@ -1,0 +1,10 @@
+Hint for Q1:
+
+
+Consider the vertex set V of all origin and all extinction times. Build an appropriate directed graph on V and run topological sort.
+
+
+Hint for Q2:
+
+
+What property do the distance values after the ith iteration of Bellman Ford satisfy?
